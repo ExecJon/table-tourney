@@ -38,6 +38,12 @@
 
 ---
 
+## 👥 Language Support
+
+* add multiple languages supported before launch
+
+---
+
 ## 📦 Product Presence
 
 * GitHub repository update
@@ -57,10 +63,22 @@
 
 # 🎯 Postlaunch Roadmap
 
+---
+
 ## 👥 Additional Modes
 
 * 2-4 player Commaner Format
 
+---
+
 ## 💾 Record keeping
 
 * Player Records for individual wins and tournament wins
+
+---
+
+## 👥 Language Support
+
+* add more languages supported after launch
+
+---
