@@ -1,20 +1,6 @@
 # 🎯 Prelaunch Roadmap
 
-## 💾 Persistence
-
-* Persistent tournament resume system
-* Save only last active tournament
-* Prompt resume on app launch
-
----
-
-## 🎨 UI & Branding
-
-* Main Menu UI refresh
-
----
-
-## 🎯 Core Gameplay Polish (Highest Priority)
+## 🎯 Start Tournament Menu UI Refresh
 
 * Start Tournament Menu → own Swift file
 
@@ -28,13 +14,11 @@
 
 * Form state → feeds `startNewTournament()`
 
-* Center lane winning light animation
-
 ---
 
-## 👥 Game Modes
+## 🎨 UI & Branding
 
-* 1v1 Mode lock-in
+* Main Start Screen UI refresh
 
 ---
 
@@ -44,20 +28,26 @@
 
 ---
 
+## 👥 Game Modes
+
+* 1v1 Mode lock-in
+
+---
+
+## 🎯 Center Lane UI Refresh
+
+* Potential line down center
+
+* resizing everything for Ipad
+
+* animate lightup on win condition
+
+---
+
 ## 📦 Product Presence
 
 * GitHub repository update
 * App Store listing preparation
-
----
-
-## ⏱ Match Timer System (Add Next)
-
-* Add optional match timer support
-* Store timer configuration inside tournament settings
-* Allow toggle on/off from Start Tournament Menu
-* Timer should live cleanly inside match UI layer
-* Consider pause / resume behavior for between rounds
 
 ---
 
@@ -82,3 +72,11 @@
 * add more languages supported after launch
 
 ---
+
+## ⏱ Match Timer System
+
+* Add optional match timer support
+* Store timer configuration inside tournament settings
+* Allow toggle on/off from Start Tournament Menu
+* Timer should live cleanly inside match UI layer
+* Consider pause / resume behavior for between rounds
