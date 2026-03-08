@@ -16,15 +16,13 @@
 
 ---
 
-## 🎨 UI & Branding
+## 🎯 Center Lane UI Refresh
 
-* Main Start Screen UI refresh
+* Potential line down center
 
----
+* resizing everything for Ipad
 
-## 👥 Language Support
-
-* add multiple languages supported before launch
+* animate lightup on win condition
 
 ---
 
@@ -34,13 +32,9 @@
 
 ---
 
-## 🎯 Center Lane UI Refresh
+## 🎨 UI & Branding
 
-* Potential line down center
-
-* resizing everything for Ipad
-
-* animate lightup on win condition
+* UI update for older menus to be on theme
 
 ---
 
@@ -80,3 +74,15 @@
 * Allow toggle on/off from Start Tournament Menu
 * Timer should live cleanly inside match UI layer
 * Consider pause / resume behavior for between rounds
+
+---
+
+## 🎨 Randomize Sticker System
+
+* On match over have a set of stickers that will randomly be picked and displayed
+
+---
+
+## 🎲 On The Draw Randomizer
+
+* Enable a setting to let the app pick who is on the draw for each match
