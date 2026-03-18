@@ -1,10 +1,14 @@
+<img width="1024" height="500" alt="1 0 RoadMap" src="https://github.com/user-attachments/assets/ab8fcae2-be56-43c5-8f21-7fcca56ab929" />
+
+
 # 🎯 Postlaunch Roadmap
 
 ---
 
 ## 👥 Additional Modes
 
-* 2-4 player Commaner Format
+* Free For All Mode
+* 2-4 player Commander Format
 
 ---
 
@@ -36,6 +40,6 @@
 
 ---
 
-## 🎲 On The Draw Randomizer
+## 🎲 On The Play/ Draw Randomizer
 
 * Enable a setting to let the app pick who is on the draw for each match
