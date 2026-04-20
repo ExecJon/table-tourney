@@ -1,93 +1,126 @@
-Table Tourney
+# Table Tourney
 
-Table Tourney is a cross-platform app designed to make tabletop game nights and small tournaments simple, fast, and organized.
+**Table Tourney** is an iOS app built to make tabletop game nights and small tournaments simple, fast, and organized.
 
-Built for real tables, it allows players to track matches, manage tournaments, and now fully supports Commander-style multiplayer gameplay all from a single device.
+Designed for real tables and real playgroups, it helps players track matches, run tournaments, and manage multiplayer game states from a single device.
 
 Whether you're running a structured event or just playing with friends, Table Tourney keeps the game moving without paper, clutter, or confusion.
 
-Available Now
-iOS: https://apps.apple.com/us/app/table-tourney-tournament-tool/id6760344562
-Android: https://play.google.com/store/apps/details?id=com.harderproductions.tabletourney
-
 ---
-Features:
 
-Commander Mode
-Track everything in one place:
+## Available Now
 
-Commander Damage
-Commander Tax
-Poison Counters
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple)](https://apps.apple.com/us/app/table-tourney-tournament-tool/id6760344562)
 
-Designed specifically for multiplayer tables with a clean, shared layout.
+### Current Platform
+- **iOS** — Available now on the App Store
 
-Quick Tournament Setup
+### Android Status
+Android support is still in progress and has **not launched yet**.
 
-Start a four-player 1v1 tournament in just a few taps. Add players and begin immediately.
+If you're interested in helping test future Android builds, feel free to open an issue or reach out through GitHub.
 
-Match Tracking
-
-Track life totals or victory points with large, easy-to-read counters designed for visibility across the table.
-
-Tournament Brackets
-
-Automatically manage brackets and record match results as the tournament progresses.
-
-Multiple Matches on One Screen
-
-Track two matches simultaneously on a single device—perfect for small tournament setups or shared table play.
-
-Automatic Seat Switching
-
-Players rotate between rounds automatically to keep matchups fair and organized.
-
-Session Tracking
-
-Keep track of game nights and results across multiple matches in a single session.
+> **Looking for Android testers**
+> If you use Android and would like to help test future versions of Table Tourney, feedback is welcome.
 
 ---
 
-Designed for Tabletop Play
+## Features
 
-Table Tourney is built for in-person play:
+### Tournament Play
 
-Clean layout
-Large, readable UI
-Minimal input required during games
+Run small tournaments quickly and cleanly from a single device:
 
-Supports a variety of tabletop formats including trading card games and casual competitive play.
+- Multiple Matches on One Screen  
+  Track two matches simultaneously — perfect for four-player setups.
+
+- Quick Tournament Setup  
+  Start a tournament in just a few taps and begin playing immediately.
+
+- Tournament Brackets  
+  Automatically manage matchups and track results as the tournament progresses.
+
+- Automatic Seat Switching  
+  Players rotate between rounds to keep matchups fair and organized.
 
 ---
 
-Support
+### Session Tracking
 
-If you encounter a bug, have a suggestion, or need help:
+Keep your game nights organized across multiple matches:
 
-Open an issue on GitHub
-Use Issues for bug reports, feature requests, or feedback
+- Track results across an entire session
+- View performance over multiple games
+- Ideal for recurring game nights and casual groups
 
 ---
 
-Privacy Policy
+### MTG Commander & Custom Trackers
 
-Table Tourney does not collect, store, or transmit personal data.
+Full support for Magic: The Gathering Commander and advanced table tracking:
+
+**Counters Supported:**
+- Commander Damage
+- Commander Tax
+- Poison
+- Energy
+- Experience
+- Rad Counters
+- Storm Count
+
+**Status Tracking:**
+- Monarch
+- Initiative
+- City’s Blessing
+
+All designed for quick access and visibility during multiplayer games.
+
+---
+
+### Multi-Game Support
+
+Table Tourney supports a variety of tabletop and trading card games:
+
+- Magic: The Gathering — Life
+- Disney Lorcana — Lore
+- Star Wars: Unlimited — Base Health
+- Flesh and Blood — Life
+- Riftbound — Victory Points
+- One Piece TCG — Life
+
+---
+
+## Support
+
+If you encounter a bug, have a suggestion, or need help, please use GitHub Issues.
+
+- Bug reports
+- Feature requests
+- General feedback
+
+[Open an Issue](https://github.com/ExecJon/TableTourney/issues)
+
+---
+
+## Privacy Policy
+
+Table Tourney does **not** collect, store, or transmit personal data.
 
 All information is stored locally on your device and is never shared externally.
 
-Privacy Policy:
-https://github.com/ExecJon/TableTourney/blob/main/PRIVACY.md
+[View Privacy Policy](https://github.com/ExecJon/TableTourney/blob/main/PRIVACY.md)
 
 ---
 
-License
+## Roadmap
 
-Copyright © 2026 Jonathan Harder
+Future development plans can be found here:
+
+[View Roadmap](https://github.com/ExecJon/TableTourney/blob/main/ROADMAP.md)
+
+---
+
+## License
+
+Copyright © 2026 Jonathan Harder  
 All rights reserved.
-
----
-
-Future Development
-
-Roadmap:
-https://github.com/ExecJon/TableTourney/blob/main/ROADMAP.md
