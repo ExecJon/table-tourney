@@ -98,7 +98,7 @@ If you encounter a bug, have a suggestion, or need help, please use GitHub Issue
 - Feature requests
 - General feedback
 
-[Open an Issue](https://github.com/ExecJon/TableTourney/issues)
+[Open an Issue](https://github.com/ExecJon/table-tourney/issues)
 
 ---
 
