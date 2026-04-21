@@ -116,7 +116,7 @@ All information is stored locally on your device and is never shared externally.
 
 Future development plans can be found here:
 
-[View Roadmap](https://github.com/ExecJon/TableTourney/blob/main/ROADMAP.md)
+[View Roadmap](https://github.com/ExecJon/table-tourney/blob/main/ROADMAP.md)
 
 ---
 
