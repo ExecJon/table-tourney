@@ -108,7 +108,7 @@ Table Tourney does **not** collect, store, or transmit personal data.
 
 All information is stored locally on your device and is never shared externally.
 
-[View Privacy Policy](https://github.com/ExecJon/TableTourney/blob/main/PRIVACY.md)
+[View Privacy Policy](https://github.com/ExecJon/table-tourney/blob/main/PRIVACY.md)
 
 ---
 
