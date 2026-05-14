@@ -1,45 +1,129 @@
-<img width="1024" height="500" alt="1 0 RoadMap" src="https://github.com/user-attachments/assets/ab8fcae2-be56-43c5-8f21-7fcca56ab929" />
+# Table Tourney Roadmap
 
+## Version 1.4.2 – Home Screen Refresh
 
-# 🎯 Postlaunch Roadmap
+### A More Modern Tabletop Dashboard
+Table Tourney’s front screen is getting a complete redesign focused on live activity, player identity, and recent game-night history.
 
----
+### Planned Features
+- New modern home dashboard
+- Persistent “Continue Playing” area for active games and events
+- Swipeable player profile carousel
+- Recent matches and event feed
+- Faster access to Quick Play and Events
+- Cleaner spacing and improved navigation flow
+- Unified scorebug and scorecard presentation across the app
 
-## 👥 Additional Modes
+### UI Improvements
+- More polished scorebug styling
+- Cleaner player identity cards
+- Improved event summaries
+- Better visual consistency across gameplay, history, and menus
 
-* Free For All Mode
-* 2-4 player Commander Format
-
----
-
-## 💾 Record keeping
-
-* Player Records for individual wins and tournament wins
-
----
-
-## 👥 Language Support
-
-* add more languages supported after launch
-
----
-
-## ⏱ Match Timer System
-
-* Add optional match timer support
-* Store timer configuration inside tournament settings
-* Allow toggle on/off from Start Tournament Menu
-* Timer should live cleanly inside match UI layer
-* Consider pause / resume behavior for between rounds
+### Under-the-Hood Improvements
+- Improved scorebug consistency
+- Better player seat/order stability
+- Cleaner tournament and history systems
+- Expanded localization tooling and release checks
 
 ---
 
-## 🎨 Randomize Sticker System
+# Version 1.5.0 – MTG Identity Update
 
-* On match over have a set of stickers that will randomly be picked and displayed
+### Built Even More for MTG Players
+Table Tourney begins expanding deeper MTG-focused identity and deck support while staying lightweight and table-first.
+
+### Planned Features
+- Commander/deck identity support
+- Moxfield and Archidekt deck identity import
+- Commander portrait support
+- Color identity styling and gradients
+- Deck name support throughout gameplay and history
+- Deck-based stats and match history
+
+### MTG Event Support
+- Commander
+- cEDH
+- Draft
+- Sealed
+- Pick 2
+- Constructed formats
+
+### Future MTG Insights
+- Deck win rates
+- Matchup tracking
+- Favorite decks
+- Event performance trends
 
 ---
 
-## 🎲 On The Play/ Draw Randomizer
+# Version 1.5.1 – Lorcana Identity Update
 
-* Enable a setting to let the app pick who is on the draw for each match
+### Built for Disney Lorcana Game Nights
+Table Tourney expands support for Lorcana-focused gameplay and presentation.
+
+### Planned Features
+- Lorcana deck identity support
+- Ink-color-inspired styling
+- Hero/character identity presentation
+- Improved multiplayer support
+- Better Lorcana event organization
+
+### Event Support
+- Constructed
+- Sealed
+- Draft
+- Multiplayer sessions
+
+---
+
+# Future 1.5.x – Expanded TCG Support
+
+## Yu-Gi-Oh!
+- Expanded duel support
+- Improved LP tools
+- Competitive pacing utilities
+- Better turn tracking support
+
+## Flesh and Blood
+- Hero identity support
+- Cleaner competitive layouts
+- Expanded match tracking
+
+## Pokémon
+- Prize tracking support
+- Pokémon-focused layouts
+- Improved multiplayer support
+
+## Star Wars: Unlimited
+- Leader/base identity support
+- Improved event presentation
+
+---
+
+# Future Gameplay Systems
+
+### Improved History
+- Richer game/event history
+- Better scorecards
+- Cleaner event summaries
+- Expanded search and tagging
+
+### Player Identity
+- Rivalries
+- Win streaks
+- Favorite formats
+- Favorite TCGs
+- Deck identity tracking
+
+---
+
+# Long-Term Goals
+
+## Table Tourney Is Growing Into:
+- A tabletop event companion
+- A game-night tracking platform
+- A TCG-focused gameplay hub
+- A player and deck history system
+
+The goal is to keep gameplay fast, readable, and table-friendly while making every game night feel memorable.
